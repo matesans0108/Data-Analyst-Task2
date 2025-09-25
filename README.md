@@ -4,7 +4,7 @@
 This project is part of my Data Analyst internship task.  
 I built an **interactive sales dashboard** using the Superstore dataset to practice data visualization and storytelling.
 
-## 🛠️ Tools Used
+## Tools Used
 - **Power BI** for dashboard creation  
 - **Python (pandas)** for basic data cleaning  
 - **GitHub** for version control  
