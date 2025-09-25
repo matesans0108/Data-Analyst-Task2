@@ -1,27 +1,28 @@
-# Task 2 - Sales Dashboard (Superstore Dataset)
+# Task 2 - Data Visualization & Storytelling
 
 ## Overview
-This project is part of my Data Analyst internship task.  
-I built an **interactive sales dashboard** using the Superstore dataset to practice data visualization and storytelling.
+This task was about mastering **visual storytelling** using charts and dashboards.
+I used the **Superstore dataset** and built a dashboard in **Power BI**.
 
-## Tools Used
-- **Power BI** for dashboard creation  
-- **Python (pandas)** for basic data cleaning  
-- **GitHub** for version control  
+## Files
+- `data/Superstore_Cleaned.csv` → Cleaned dataset (ready for analysis)
+- `workbook/Superstores Sales.pbix` → Power BI dashboard file
+- `notebook/Superstore_Cleaning.ipynb` → Jupyter Notebook for cleaning
 
-
-## Dashboard Features
-- KPIs: Total Sales, Total Profit, Orders, Return Rate  
-- Sales & Profit trends over time  
-- Sales & Profit by Category/Sub-Category  
-- Regional performance (map)  
-- Top Customers & Products with return analysis  
+## Dashboard Highlights
+- KPIs: Total Sales, Total Profit, Orders, Avg Order Value
+- Sales Trend over Time
+- Sales & Profit by Category and Sub-Category
+- Profit vs Sales scatter to spot low-margin products
+- Map view of Sales by Region/State
+- Top 10 Products and Customers
 
 ## Key Insights
-1. Identified top-performing categories and sub-categories  
-2. Highlighted regions with highest and lowest profitability  
-3. Analyzed impact of returns on profit  
+1. [Write one finding, e.g., Office Supplies is high sales but low profit]
+2. [Another insight, e.g., Technology has strong profit margin]
+3. [One actionable step, e.g., Focus discount strategy on low-profit categories]
 
----
-
-
+## Tools Used
+- **Power BI** for dashboard
+- **Python (pandas)** for cleaning
+- **GitHub** for version control
