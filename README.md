@@ -1,56 +1,27 @@
-#  Superstore Sales Dashboard  
+# Task 2 - Sales Dashboard (Superstore Dataset)
 
-This repository contains an interactive **Power BI dashboard** developed as part of my **Data Analyst Internship – Task 2: Data Visualization and Storytelling**.  
-The project focuses on transforming raw sales data into actionable business insights through effective visualization and storytelling.  
+## Overview
+This project is part of my Data Analyst internship task.  
+I built an **interactive sales dashboard** using the Superstore dataset to practice data visualization and storytelling.
 
----
+## 🛠️ Tools Used
+- **Power BI** for dashboard creation  
+- **Python (pandas)** for basic data cleaning  
+- **GitHub** for version control  
 
-## Objective  
-- Build a dashboard that provides a **comprehensive view of Superstore sales performance**.  
-- Apply **data visualization best practices** to highlight key trends.  
-- Communicate **business insights** rather than just raw data.  
 
----
+## Dashboard Features
+- KPIs: Total Sales, Total Profit, Orders, Return Rate  
+- Sales & Profit trends over time  
+- Sales & Profit by Category/Sub-Category  
+- Regional performance (map)  
+- Top Customers & Products with return analysis  
 
-## Features  
- -KPI Cards (Sales, Profit, Quantity)  
- -Time Series Analysis (Sales & Profit trends)  
- -Regional Performance (Region, State, City)  
- -Category & Sub-Category Breakdown  
- -Customer Segmentation  
- -Interactive Filters  
-
----
-
-## Tools & Dataset  
-- **Power BI Desktop**  
-- **Sample Superstore Dataset**  
+## Key Insights
+1. Identified top-performing categories and sub-categories  
+2. Highlighted regions with highest and lowest profitability  
+3. Analyzed impact of returns on profit  
 
 ---
 
-## Repository Structure  
--SuperStore_Sales_Dataset.csv
--Superstore_Cleaning.ipynb
--Superstores Sales.pbix
--README.md
----
 
-## Dashboard Preview  
-![Dashboard Overview](images/dashboard_overview.png)  
-![Sales Trend](images/sales_trend.png)  
-![Regional Performance](images/regional_performance.png)  
-![Category Analysis](images/category_analysis.png)  
-![Customer Insights](images/customer_insights.png)  
-
----
-
-## Key Insights  
-- The **West Region** drives the highest sales, but profits vary by state.  
-- **Technology** products are most profitable, while Furniture has weaker margins.  
-- A small group of **top customers** generates significant revenue.  
-- **Seasonal peaks** in Q4 indicate holiday-driven demand.  
-
----
-
-## License  
-This project is for **educational and portfolio purposes**.  
