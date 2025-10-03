@@ -1,4 +1,4 @@
-# Task 2 - Data Visualization & Storytelling
+# Task 2&8 - Data Visualization & Storytelling
 
 ## Overview
 This task was about mastering **visual storytelling** using charts and dashboards.
